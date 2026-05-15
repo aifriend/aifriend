@@ -94,21 +94,6 @@ Across the four threads above, here's where my active hours actually go right no
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aifriend&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aifriend&layout=compact&hide_border=true&theme=tokyonight">
-</p>
-
-<!--
-The two images above are served by github-readme-stats (open source, widely used).
-They will render automatically on your profile. If you'd rather not depend on a
-third-party service, just delete this section.
--->
-
----
-
 ### Beyond code
 
 - **Brain ↔ machine analogies.** I think biological inspiration is undervalued as a source of architectural ideas. My PhD work pushes on this directly — looking for the geometric signatures that distinguish a circuit doing *normalization* from one doing *attractor dynamics*, in both RNNs and real cortex.
@@ -117,15 +102,3 @@ third-party service, just delete this section.
 ---
 
 <p align="center"><em>"The best way to predict the future is to invent it."</em> — Alan Kay</p>
-
-<!--
-======================================================================
-  Editing checklist before you publish:
-  [ ] Replace LinkedIn URL
-  [ ] Replace email
-  [ ] Replace or remove website badge
-  [ ] Fill in the "currently reading" line (or delete it)
-  [ ] Re-confirm featured projects (replace any you no longer want to highlight)
-  [ ] Decide whether to keep github-readme-stats — delete the block if not
-======================================================================
--->
