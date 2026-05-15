@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/jafdl"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contacto@auto-latam.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://auto-latam.com/en"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-1f6feb?style=flat&logo=githubpages&logoColor=white"></a>
+  <a href="https://medium.com/@j.b.lopez.acc"><img alt="Medium" src="https://img.shields.io/badge/Medium-Read-12100E?style=flat&logo=medium&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Madrid,%20Spain-📍-555">
 </p>
 
@@ -28,13 +29,17 @@ Most of my public work falls into four buckets:
 
 ### What I'm working on
 
+<!-- TODO: keep this section fresh — update every 4–8 weeks. Stale "currently working on" sections are worse than none. -->
+
 Across the four threads above, here's where my active hours actually go right now:
 
 - 🧬 **Research at the neuro–AI boundary** — pushing [geometric-signatures-proposal](https://github.com/aifriend/geometric-signatures-proposal) into Phase 3: biological validation on IBL and Allen Brain Observatory data, testing whether the geometric motif signatures discovered in constrained RNNs (Phase 2: 50 seeds × 4 ablations, persistent homology + RSA/CKA + MARBLE) hold up in real cortex.
 - 🤖 **Agentic, evolutionary & simulation systems** — iterating on [f1-neuroevolution](https://github.com/aifriend/f1-neuroevolution) (plateau-based curriculum escalation, headless trainer, Three.js visualization across 9 tracks) and building [aiasis](https://github.com/aifriend/aiasis) for agentic LLM workflows. Classic simulation playgrounds — [pong](https://github.com/aifriend/pong), [atari](https://github.com/aifriend/atari), [gameoflife](https://github.com/aifriend/gameoflife) — stay live as testbeds for new RL and emergent-behavior ideas.
 - 📄 **Document & language intelligence** — modernizing [pdf2readable](https://github.com/aifriend/pdf2readable) (Tika + Tesseract + Celery + AWS) and [doc_watermark_cleaner](https://github.com/aifriend/doc_watermark_cleaner) (DE-GAN cGAN), and continuing to refine the OCR pipelines that feed them.
 - 🚀 **Production engineering** — keeping [car_sharing_pooling_service](https://github.com/aifriend/car_sharing_pooling_service) tidy as a reference for clean, Docker-first FastAPI service design.
-- 📚 **Reading** — Self-Assembling Brain (Peter Robin Hiesinger)
+- 📝 **Latest writeup** — [*Why I trained 80 cars to race using nothing but mutation and selection*](https://medium.com/@j.b.lopez.acc/why-i-trained-80-cars-to-race-using-nothing-but-mutation-and-selection-b08e42ba07b2) — a field report on neuroevolution, gradient-free learning, and what the cars surprised me with.
+- 📚 **Reading** — *Self-Assembling Brain* (Peter Robin Hiesinger).
+
 ---
 
 ### Featured projects
@@ -50,7 +55,7 @@ Across the four threads above, here's where my active hours actually go right no
 | Project | What it does | Stack |
 |---|---|---|
 | [**f1-neuroevolution**](https://github.com/aifriend/f1-neuroevolution) | 80 AI cars learn F1-style racing through genetic algorithms across a 7-level track curriculum. Browser visualization + headless trainer with plateau-based escalation. | JavaScript · Three.js · Node · Vitest |
-| [**aiasis**](https://github.com/aifriend/aiasis) | Agentic system / LLM tooling. | Python · LLMs |
+| [**aiasis**](https://github.com/aifriend/aiasis) | In-ear AI assistant — listens via AirPods, reasons about conversations, whispers coaching insights back. | Python · LLMs |
 | [**gym_cartpole_toy_control**](https://github.com/aifriend/gym_cartpole_toy_control) | Classic control RL with OpenAI Gym. | Python · RL · Gym |
 | [**pong**](https://github.com/aifriend/pong) · [**atari**](https://github.com/aifriend/atari) · [**gameoflife**](https://github.com/aifriend/gameoflife) | Simulation playgrounds — classic control, Atari environments, and Conway-style cellular automata for RL and emergent-behavior experiments. | Python · Pygame · RL |
 
@@ -90,6 +95,15 @@ Across the four threads above, here's where my active hours actually go right no
   <img alt="OpenCV"      src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
   <img alt="Hugging Face" src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat">
   <img alt="ROS"         src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white">
+</p>
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aifriend&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aifriend&layout=compact&hide_border=true&theme=tokyonight">
 </p>
 
 ---
