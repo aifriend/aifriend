@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jafdl"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contacto@auto-latam.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://auto-latam.com/en"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-1f6feb?style=flat&logo=githubpages&logoColor=white"></a>
+  <a href="https://auto-latam.com"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-1f6feb?style=flat&logo=githubpages&logoColor=white"></a>
   <a href="https://medium.com/@j.b.lopez.acc"><img alt="Medium" src="https://img.shields.io/badge/Medium-Read-12100E?style=flat&logo=medium&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Madrid,%20Spain-📍-555">
 </p>
