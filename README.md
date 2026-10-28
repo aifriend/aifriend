@@ -35,7 +35,7 @@ Most of my public work falls into four buckets:
 - 🧬 **Cortical models** — reproducing and extending the Thousand Brains model (Monty) in [milbrain-showcase](https://github.com/aifriend/milbrain-showcase): verified reproduction, interactive results dashboard, and a plan to grow the architecture via indirect encoding.
 - 🔬 **Geometric signatures** — pushing [geometric-signatures-proposal](https://github.com/aifriend/geometric-signatures-proposal) into Phase 3: biological validation on IBL and Allen Brain Observatory data, testing whether the geometric motif signatures discovered in constrained RNNs (persistent homology + RSA/CKA + MARBLE) hold up in real cortex.
 - 🤖 **Embodied & evolutionary agents** — training general-purpose and embodied agents with Gymnasium + MuJoCo in [evosim](https://github.com/aifriend/evosim), and iterating on [f1-neuroevolution](https://github.com/aifriend/f1-neuroevolution) (80 AI cars, 7-level curriculum, Three.js visualization).
-- 🎮 **Game AI** — building [lighthouse_ai](https://github.com/aifriend/lighthouse_ai), a unified AI platform for the FaROS LaSER lighthouse strategy game plus an AlphaZero framework for board games.
+- 🎮 **Game AI** — [lighthouses_aicontest](https://github.com/aifriend/lighthouses_aicontest), a public playground for the FaROS LaSER lighthouse strategy game (Euskal Encounter AI Contest): engine, maps, example bots, live viewer and a headless match runner — write your own bot and compete.
 - 📝 **Latest writeup** — [*Why I trained 80 cars to race using nothing but mutation and selection*](https://medium.com/@j.b.lopez.acc/why-i-trained-80-cars-to-race-using-nothing-but-mutation-and-selection-b08e42ba07b2) — a field report on neuroevolution, gradient-free learning, and what the cars surprised me with.
 - 📚 **Reading** — *Self-Assembling Brain* (Peter Robin Hiesinger).
 
@@ -58,8 +58,8 @@ Most of my public work falls into four buckets:
 |---|---|---|
 | [**f1-neuroevolution**](https://github.com/aifriend/f1-neuroevolution) | 80 AI cars learn F1-style racing through genetic algorithms across a 7-level track curriculum. Browser visualization + headless trainer with plateau-based escalation. | JavaScript · Three.js · Node · Vitest |
 | [**evosim**](https://github.com/aifriend/evosim) | Training general-purpose and embodied agents with Gymnasium and MuJoCo. | Python · Gymnasium · MuJoCo |
-| [**emergence-sims**](https://github.com/aifriend/emergence-sims) | Interactive simulation portfolio — emergence, minds, agents & markets, live in the browser. | Next.js · Three.js · TypeScript |
-| [**lighthouse_ai**](https://github.com/aifriend/lighthouse_ai) | Unified AI platform for the FaROS LaSER lighthouse strategy game + AlphaZero framework for board games. | Python · AlphaZero · RL |
+| [**emergence-sims**](https://github.com/aifriend/emergence-sims) | Interactive simulation portfolio — emergence, minds, agents & markets, live in the browser at [**emergence-lab**](https://www.watchitemerge.info). | Next.js · Three.js · TypeScript |
+| [**lighthouses_aicontest**](https://github.com/aifriend/lighthouses_aicontest) | Playground for the FaROS LaSER lighthouse strategy game — engine, maps, example bots, live pygame viewer, and a headless match runner with stats. | Python · Pygame · Game AI |
 | [**aiasis**](https://github.com/aifriend/aiasis) | In-ear AI assistant — listens via AirPods, reasons about conversations, whispers coaching insights back. | Python · LLMs |
 | [**pong**](https://github.com/aifriend/pong-game-train) · [**atari**](https://github.com/aifriend/atari57-sandbox) · [**gameoflife**](https://github.com/aifriend/gameoflife-sandbox) | Simulation playgrounds — classic control, Atari environments, and Conway-style cellular automata for RL and emergent-behavior experiments. | Python · Pygame · RL |
 
