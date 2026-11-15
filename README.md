@@ -68,16 +68,12 @@ Most of my public work falls into four buckets:
 | Project | What it does | Stack |
 |---|---|---|
 | [**doc_watermark_cleaner**](https://github.com/aifriend/doc_watermark_cleaner) | Conditional GAN (DE-GAN–style) for watermark removal, binarization, deblurring, and cleaning of scanned documents. | Python · TensorFlow · cGAN |
-| [**pdf2readable**](https://github.com/aifriend/pdf2readable) | OCR microservice that turns PDFs and images into searchable text. Apache Tika + Tesseract, Celery async, AWS S3, Docker, Serverless. | Python · Flask · Celery · Tika · AWS |
-| [**llm_framework**](https://github.com/aifriend/llm_framework) | LLM framework for structured data extraction from documents. | Python · LLMs |
-| [**virtual_assistant**](https://github.com/aifriend/virtual_assistant) | Rasa-based virtual assistant with NLU pipelines, custom actions, and Docker Compose stacks. | Python · Rasa · NLP |
 
 **🚀 Production engineering**
 
 | Project | What it does | Stack |
 |---|---|---|
 | [**car_sharing_pooling_service**](https://github.com/aifriend/car_sharing_pooling_service) | FastAPI microservice for car-pool matching with FIFO queueing, fully Dockerized. | Python · FastAPI · Docker |
-| [**nlp_service_template**](https://github.com/aifriend/nlp_service_template) | Template for shipping ML/NLP microservices — Flask + Gunicorn + Docker + AWS Lambda (Serverless). | Python · Flask · Docker |
 | [**ds_template**](https://github.com/aifriend/ds_template) | Opinionated Python project template for data science — pre-wired structure for notebooks, src, data, and reproducible experiments. | Python · Cookiecutter |
 
 ---
